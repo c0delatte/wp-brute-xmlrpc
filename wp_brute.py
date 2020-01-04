@@ -2,7 +2,7 @@
 # Github : http://github.com/galehrizky#
 # Facebook : Galeh Rizky               #
 # Email : galehrizky@codelatte.org     #
-# visit : c0delabs.com                 #
+# visit : https://codelatte.net/       #
 ########################################
 
 import requests,argparse,sys,json,time
